@@ -1,0 +1,7 @@
+body{
+    scroll-behavior: smooth;
+}
+.gradient-bg {
+    background: linear-gradient(180deg, rgba(189, 233, 251, 0.8) 0%, rgba(0, 120, 255, 0.8) 100%);
+  }
+  
